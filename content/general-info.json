@@ -1,0 +1,47 @@
+{
+  "title": "Ankara Gezi Rehberi: Başkentin Tarihi, Doğa ve Kültür Durakları",
+  "subtitle": "Cumhuriyetin Kalbinde Tarih Dolu Sokaklar ve Yaşam Dolu Parklar",
+  "description": "Anadolu medeniyetlerinin zengin mirası, Cumhuriyet dönemi mimarisi ve geniş parklarıyla Ankara'yı adım adım keşfedin.",
+  "hero_image": "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?auto=format&fit=crop&w=1600&q=80&fm=webp",
+  "badge": "Başkent Kültür Rehberi",
+  "badge_icon": "fa-solid fa-star",
+  "stats": [
+    {
+      "value": "25",
+      "label": "İlçe",
+      "icon": "fa-solid fa-map-location-dot"
+    },
+    {
+      "value": "50+",
+      "label": "Müze & Ören Yeri",
+      "icon": "fa-solid fa-building-columns"
+    },
+    {
+      "value": "UNESCO",
+      "label": "Gordion Mirası",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "value": "900m",
+      "label": "Ortalama Rakım",
+      "icon": "fa-solid fa-mountain"
+    }
+  ],
+  "accommodation": {
+    "title": "Ankara'da Nerede Kalınır? En İyi Konaklama Bölgeleri",
+    "description": "Kızılay ve Çankaya iş ve turistik geziler için idealdir. Ulus ve Kale çevresi otantik konaklar sunarken, Tunalı canlı bir akşam hayatı vadeder.",
+    "button_text": "Ankara Otel Fırsatlarını Gör",
+    "button_url": "https://gezirotasi.com/ankara-otelleri",
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80&fm=webp"
+  },
+  "transportation": {
+    "title": "Şehir İçi Ulaşım & Ankarakart İpuçları",
+    "description": "Esenboğa Havalimanı'ndan HAVAŞ ve 442 otobüsleri çalışır. Metro ve Ankaray hatlarında Ankarakart kullanılır.",
+    "tips": [
+      "Ankarakart mobil uygulaması ile temassız biniş sağlayabilirsiniz.",
+      "Ulus ve Kale bölgesini yürüyerek keşfetmeniz önerilir.",
+      "Ankaray hattı AŞTİ Otogarı'nı merkeze bağlar."
+    ],
+    "map_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195884.28859344445!2d32.62268153400588!3d39.90355570080608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d347d520732db1%3A0xbdc57b1e26d13682!2sAnkara!5e0!3m2!1str!2str!4v1710000000000!5m2!1str!2str"
+  }
+}
