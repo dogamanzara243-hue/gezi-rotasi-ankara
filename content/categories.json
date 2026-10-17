@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Anıtkabir & Milli Mücadele Rotaları",
+    "category_badge": "Milli Miras & Tarih",
+    "badge_icon": "fa-solid fa-monument",
+    "image": "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?auto=format&fit=crop&w=800&q=80&fm=webp",
+    "description": "Gazi Mustafa Kemal Atatürk'ün ebedi istirahathanesi olan Anıtkabir, Rasattepe üzerinde konumlanan görkemli yapısıyla başkentin en manevi simgesidir. Aslanlı Yol, Tören Meydanı ve Kurtuluş Savaşı Müzesi ile eşsiz bir tarih deneyimi sunar.",
+    "target_url": "#anitkabir-rehberi",
+    "button_text": "Anıtkabir Gezi Rehberini Gör"
+  },
+  {
+    "id": 2,
+    "title": "Tarihi Ankara Kalesi & Kaleiçi Sokakları",
+    "category_badge": "Tarih & Mimari",
+    "badge_icon": "fa-solid fa-chess-rook",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80&fm=webp",
+    "description": "Kaleiçi sokaklarındaki restore edilmiş tarihi ahşap ve kerpiç konakları, kafelere ve sanat galerilerine ev sahipliği yapar. Akkale mevkiinden tüm şehri kuşbakışı seyredebilirsiniz.",
+    "target_url": "#ankara-kalesi",
+    "button_text": "Kaleiçi Rotalarını Keşfet"
+  },
+  {
+    "id": 3,
+    "title": "Anadolu Medeniyetleri Müzesi",
+    "category_badge": "Arkeoloji & Kültür",
+    "badge_icon": "fa-solid fa-landmark-dome",
+    "image": "https://images.unsplash.com/photo-1566127444979-b3d2b654e3d7?auto=format&fit=crop&w=800&q=80&fm=webp",
+    "description": "Avrupa'da Yılın Müzesi seçilmiş olan müze; Paleolitik Çağ'dan başlayarak Hitit, Frig ve Roma dönemlerine ait paha biçilmez koleksiyonları barındırır.",
+    "target_url": "#medeniyetler-muzesi",
+    "button_text": "Müze Bilet & Ziyaret Bilgisi"
+  },
+  {
+    "id": 4,
+    "title": "Eymir Gölü & Kuğu Park Doğa Rotaları",
+    "category_badge": "Doğa & Şehir Parkları",
+    "badge_icon": "fa-solid fa-tree",
+    "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80&fm=webp",
+    "description": "ODTÜ arazisindeki Eymir Gölü çevresinde bisiklet sürebilir, yürüyüş yapabilirsiniz. Kuğulu Park ise Çankaya'nın sembol kuğularıyla sakin bir mola imkanı sunar.",
+    "target_url": "#eymir-kugulu-park",
+    "button_text": "Doğa Rotalarını İncele"
+  }
+]
