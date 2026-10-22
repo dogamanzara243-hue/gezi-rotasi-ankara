@@ -24,7 +24,42 @@ const SPOT_DATA = {
         paragraphs: ["Ankara, Türkiye'nin başkenti olmanın ötesinde, binlerce yıllık Anadolu tarihini modern bir kent kültürüyle harmanlayan eşsiz bir destinasyondur.", "Mustafa Kemal Atatürk'ün ebedi istirahatgahı Anıtkabir başta olmak üzere, tarihi Ankara Kalesi ve dünyanın en saygın müzelerinden Anadolu Medeniyetleri Müzesi şehirde mutlaka görülmesi gereken yerlerin başında gelir."],
         visitorNotes: [{"label": "En İyi Zaman", "value": "İlkbahar & Sonbahar"}, {"label": "Girişler", "value": "Anıtkabir Ücretsiz / MüzeKart Geçerli"}, {"label": "MüzeSaatleri", "value": "09:00 - 17:00"}]
     },
-    whyVisit: {"title": "Neden Ankara'yı Gezmelisiniz?", "subtitle": "Milli Mücadele'nin merkezinde köklü bir tarih yolculuğu", "cards": [{"icon": "fa-solid fa-monument", "title": "Anıtkabir", "description": "Cumhuriyetimizin kurucusu Atatürk'ün anısına yapılmış görkemli anıt kabir ve müze kompleksi."}, {"icon": "fa-solid fa-landmark-dome", "title": "Anadolu Medeniyetleri", "description": "Paleolitik çağdan günümüze Anadolu tarihine ışık tutan dünyaca ünlü müze."}, {"icon": "fa-solid fa-castle", "title": "Tarihi Ankara Kalesi", "description": "Şehrin panoramik manzarasını sunan, surları ve tarihi evleriyle büyüleyen kale bölgesi."}]},
+    
+    whyVisit: {
+        title: "Ankara Keşif Rotaları",
+        subtitle: "Şehrin en gözde mekanlarını tematik kategorilere göre keşfedin",
+        cards: [
+            {
+                icon: "fa-solid fa-landmark",
+                title: "Tarihi Yerler",
+                description: "Yüzyıllık anıtlar, kaleler, müzeler ve köklü medeniyet izleri.",
+                linkText: "Tarihi Keşfet",
+                url: "#must-see-items"
+            },
+            {
+                icon: "fa-solid fa-city",
+                title: "Modern Yerler",
+                description: "Şehrin en popüler meydanları, alışveriş merkezleri ve plazas.",
+                linkText: "Moderni İncele",
+                url: "#must-see-items"
+            },
+            {
+                icon: "fa-solid fa-gem",
+                title: "Sofistike Yerler",
+                description: "Seçkin kafeler, sanat galerileri ve nezih buluşma noktaları.",
+                linkText: "Sofistike Noktalar",
+                url: "#where-to-stay-title"
+            },
+            {
+                icon: "fa-solid fa-tree",
+                title: "Doğal Güzellikler",
+                description: "Parklar, sahil şeritleri, kanyonlar ve nefis manzara noktaları.",
+                linkText: "Doğayı Gör",
+                url: "#transport-title"
+            }
+        ]
+    },
+     {"icon": "fa-solid fa-landmark-dome", "title": "Anadolu Medeniyetleri", "description": "Paleolitik çağdan günümüze Anadolu tarihine ışık tutan dünyaca ünlü müze."}, {"icon": "fa-solid fa-castle", "title": "Tarihi Ankara Kalesi", "description": "Şehrin panoramik manzarasını sunan, surları ve tarihi evleriyle büyüleyen kale bölgesi."}]},
     mustSee: {
         title: "Görülmesi Gereken Öne Çıkan Noktalar",
         items: [{"category": "Milli Miras", "title": "Anıtkabir", "description": "Türkiye Cumhuriyeti'nin simge yapısı ve Müze kompleksi."}, {"category": "Tarih", "title": "Ankara Kalesi", "description": "Eski Ankara sokakları ve nostaljik kafelere ev sahipliği yapar."}, {"category": "Müze", "title": "I. & II. TBMM Binası", "description": "Cumhuriyetin kuruluş adımlarına tanıklık eden tarihi meclis binaları."}, {"category": "Doğa", "title": "Kuğulu Park", "description": "Görkemli kuğuları ve asırlık ağaçlarıyla şehrin dinlenme noktası."}]
